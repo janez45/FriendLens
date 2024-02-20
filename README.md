@@ -38,8 +38,10 @@ Exploring more advanced facial recognition techniques, refining the user experie
 - opencv
 - python
 
-  ## Design
+  ## Design and UI
   Figma design
-  <img width="1200" alt="image" src="https://github.com/janez45/FriendLens/assets/97042818/b5942ee5-641e-4560-9447-cc55896c6428">
+<img width="1200" alt="image" src="https://github.com/janez45/FriendLens/assets/97042818/eea448cb-fbef-473a-b205-7f286cbdde54">
+<img width="1680" alt="image" src="https://github.com/janez45/FriendLens/assets/97042818/27db209c-c7df-4572-a4e1-50c5e7608ad5">
+
   
 
